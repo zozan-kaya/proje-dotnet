@@ -1,0 +1,4029 @@
+{
+  "Version": 1,
+  "Hash": "vl7qBQK4opuUu+VJaRGpdfs+NgkTSQpbAguFdeU9fAM=",
+  "Source": "projeDotnet",
+  "BasePath": "_content/projeDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projeDotnet\\wwwroot",
+      "Source": "projeDotnet",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\fqq9308tyf-97mlqvk7dd.gz",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "styles/reset#[.{fingerprint=97mlqvk7dd}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\reset.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "esc4qyuduu",
+      "Integrity": "QqTF9bwzOazmcD2mRidCCnZeFIs0NMrofsCfvmcCa1k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\reset.css"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\lyxuqz4uve-61n19gt1b8.gz",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "nezsohjtde",
+      "Integrity": "wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\t0p9r72a74-mtlk87io0h.gz",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "styles/style#[.{fingerprint=mtlk87io0h}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y3y2k77fdu",
+      "Integrity": "LlkR64qXMIVuTsY1up0bBr4ZwNOyKQutANeVMQpPQo4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\favicon.ico",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\1984.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/1984#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9nxoggmwx8",
+      "Integrity": "q4+VnuEZGP+x2dA2v0ciF35lqpky0x6BgA4FzTJyZsE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1984.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\agnes_grey.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/agnes_grey#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "662v7jf86u",
+      "Integrity": "QmCaJp6woPndoCIK+IBw8Tvo7lIsA2/T9wTCel7LYd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\agnes_grey.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\akhilleus_sarkisi.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/akhilleus_sarkisi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9k6nn31uqq",
+      "Integrity": "+XPa+cbWwIJPdF3TfSsQ/PT1p6+yJiYVlono7BnoYbs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\akhilleus_sarkisi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\algernon_cicekler.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/algernon_cicekler#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "udmj3troza",
+      "Integrity": "7uCISJjKR463GWiJXr7QoQwNi/XfBnpJ3rIfttvHDqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\algernon_cicekler.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\babaya_mektup.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/babaya_mektup#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ykgx9cmt3b",
+      "Integrity": "zjTaTUwff536haCtr883GOhRbwVjNwaHZ5sFzyAJBBk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\babaya_mektup.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\bilinmeyen_bir_kadinin_mektubu.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/bilinmeyen_bir_kadinin_mektubu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jojbpgfo55",
+      "Integrity": "YyGEBq8eo/pJvAQlKuci4RG9pqtRv2QqctlPuVGWBc8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bilinmeyen_bir_kadinin_mektubu.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dorian_gray_portresi.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/dorian_gray_portresi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jsp6w7jmnc",
+      "Integrity": "ExSC/ToAyHR4S5YvZDn4RtJcfZxBKAUSWIIUgIcbG24=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dorian_gray_portresi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dusus.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/dusus#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s86m1zwzi0",
+      "Integrity": "5Gl7mrBXnpX+rCpLPsyuYPSAl12bNGyMnAyL5J9a13Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dusus.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\emma.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/emma#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dcjvxshfiy",
+      "Integrity": "rfT9vm2rpo5WXDb1Bv6kx2qHXtoKwtgXOxuwOAopuF8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\emma.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\fareler_ve_insanlar.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/fareler_ve_insanlar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2glly993qo",
+      "Integrity": "0tUilTUAuJoTv59TzfrE0w3VSuwYARUl5v8JZEUFSbU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fareler_ve_insanlar.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_kiz_kalbi.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/genc_kiz_kalbi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l8kpmvtgd1",
+      "Integrity": "tbQpRu7tsnMCY4QtQ9F+HRc+BPdGxP+5MH7L/SNgV2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\genc_kiz_kalbi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_werther_acilari.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/genc_werther_acilari#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w6wcmvvr8j",
+      "Integrity": "+I9+Chyk0usmKkJGmMlylrcyxfA49BnBjmflxCsX6C0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\genc_werther_acilari.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayatini_degistirmelisin.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/hayatini_degistirmelisin#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dgvy6na8k2",
+      "Integrity": "vfW7z4395/h/OHSoQIUpBFIRlKVIEiRDZ9ik4XW8kpM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hayatini_degistirmelisin.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayvanlasan_insan.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/hayvanlasan_insan#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nhzgej8iwb",
+      "Integrity": "Ve79g3K9orPiSlRxYbtMOgMQxDCemSyjAbdLHMXuPP8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hayvanlasan_insan.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\idam_mahkumunun_son_gunu.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/idam_mahkumunun_son_gunu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xgudijj5b6",
+      "Integrity": "fzZGWixyClGJgnQJqmNs9ailD5//wkMbQ3HnuckJOgI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\idam_mahkumunun_son_gunu.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\jane_eyre.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/jane_eyre#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lgn7a5qwp3",
+      "Integrity": "e28AmuD2h6us72NvVQ2ml5zjQuRVUy0qe6puA1B1Rg0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jane_eyre.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kadinlar_ulkesi.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/kadinlar_ulkesi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9mn8w27epl",
+      "Integrity": "b35yBWHEo26HIrEXfUyJS8/dt9NfSO74E0MHew+pOHo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kadinlar_ulkesi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kizil_veba.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/kizil_veba#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u04azdp278",
+      "Integrity": "ImbB0MGu7YqWzN6f/ds3zLYuQMLNAktORuCzKtEGu24=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kizil_veba.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kucuk_prens.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/kucuk_prens#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rx4jj8tptw",
+      "Integrity": "QT0wwOEyHlL6jHsX34W92LBKCEI7wo69Nj2gcHz/nRo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kucuk_prens.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\mansfield_park.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/mansfield_park#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xeaij9jhdt",
+      "Integrity": "x9NK6rZ0+r3uw/eQj96EWr2BBthLGuKIlJddGOe7uEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mansfield_park.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\martin_eden.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/martin_eden#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mzoo4tbrux",
+      "Integrity": "ghzl2+YDUJgfzdj7+d26Rp9mwHLHOYV7Z4uOoSFGmN4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\martin_eden.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\otomatik_portakal.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/otomatik_portakal#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4vv0g4thv",
+      "Integrity": "UG+n71XtHPZT7KNtT6RmrSKbDZmmE+qYhadP8vz9zgk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\otomatik_portakal.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\pp.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/pp#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4480l2v3jp",
+      "Integrity": "FFbkJQh3F5ccjyyZ52zjVzSW4y2DnqnLwlhw7VIZVUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pp.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\sisifos_soyleni.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/sisifos_soyleni#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0gmmo39gs4",
+      "Integrity": "4FARDhAxD8KILNgZAJjUSh8t5TX7uHg9BXlMLZnMW/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sisifos_soyleni.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\talat_ve_fitnat.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/talat_ve_fitnat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3iiwlrifmj",
+      "Integrity": "VXmIQIDpRvC4/SvbExdWrGHTv7zbiep6PpRZd8T9Lec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\talat_ve_fitnat.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\veba.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/veba#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7l8lawfeh3",
+      "Integrity": "u1j6l+duQQYmvD5gyXSpSDNfkh4bjBW1ZjJckaIP+Yw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\veba.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yabanci.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/yabanci#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i8pe4stx09",
+      "Integrity": "vgQG59g4hKH3HAObamqjq3757bKZQhz/0N9Oac819bY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\yabanci.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yasar_ne_yasar.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/yasar_ne_yasar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8chseclbqc",
+      "Integrity": "yNSdtb3ipShdjqZUDgTS1aILQLCVgA9B9PyA0tk5gLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\yasar_ne_yasar.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\zaman_makinesi.jpg",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "images/zaman_makinesi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9qhs9nn4u",
+      "Integrity": "My/ovZekgUkaBLd/P0MXgIRVjyUa5fyxdTtGVjONdEM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\zaman_makinesi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\reset.css",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "styles/reset#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "97mlqvk7dd",
+      "Integrity": "pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\reset.css"
+    },
+    {
+      "Identity": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\style.css",
+      "SourceId": "projeDotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\",
+      "BasePath": "_content/projeDotnet",
+      "RelativePath": "styles/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mtlk87io0h",
+      "Integrity": "hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\lyxuqz4uve-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico.gz",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\lyxuqz4uve-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\lyxuqz4uve-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\lyxuqz4uve-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/1984.9nxoggmwx8.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\1984.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q4+VnuEZGP+x2dA2v0ciF35lqpky0x6BgA4FzTJyZsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:58:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9nxoggmwx8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1984.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q4+VnuEZGP+x2dA2v0ciF35lqpky0x6BgA4FzTJyZsE="
+        }
+      ]
+    },
+    {
+      "Route": "images/1984.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\1984.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q4+VnuEZGP+x2dA2v0ciF35lqpky0x6BgA4FzTJyZsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:58:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q4+VnuEZGP+x2dA2v0ciF35lqpky0x6BgA4FzTJyZsE="
+        }
+      ]
+    },
+    {
+      "Route": "images/agnes_grey.662v7jf86u.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\agnes_grey.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmCaJp6woPndoCIK+IBw8Tvo7lIsA2/T9wTCel7LYd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:48:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "662v7jf86u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/agnes_grey.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmCaJp6woPndoCIK+IBw8Tvo7lIsA2/T9wTCel7LYd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/agnes_grey.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\agnes_grey.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmCaJp6woPndoCIK+IBw8Tvo7lIsA2/T9wTCel7LYd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:48:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmCaJp6woPndoCIK+IBw8Tvo7lIsA2/T9wTCel7LYd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/akhilleus_sarkisi.9k6nn31uqq.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\akhilleus_sarkisi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+XPa+cbWwIJPdF3TfSsQ/PT1p6+yJiYVlono7BnoYbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 17:54:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9k6nn31uqq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/akhilleus_sarkisi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+XPa+cbWwIJPdF3TfSsQ/PT1p6+yJiYVlono7BnoYbs="
+        }
+      ]
+    },
+    {
+      "Route": "images/akhilleus_sarkisi.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\akhilleus_sarkisi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+XPa+cbWwIJPdF3TfSsQ/PT1p6+yJiYVlono7BnoYbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 17:54:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+XPa+cbWwIJPdF3TfSsQ/PT1p6+yJiYVlono7BnoYbs="
+        }
+      ]
+    },
+    {
+      "Route": "images/algernon_cicekler.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\algernon_cicekler.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uCISJjKR463GWiJXr7QoQwNi/XfBnpJ3rIfttvHDqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7uCISJjKR463GWiJXr7QoQwNi/XfBnpJ3rIfttvHDqo="
+        }
+      ]
+    },
+    {
+      "Route": "images/algernon_cicekler.udmj3troza.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\algernon_cicekler.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uCISJjKR463GWiJXr7QoQwNi/XfBnpJ3rIfttvHDqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udmj3troza"
+        },
+        {
+          "Name": "label",
+          "Value": "images/algernon_cicekler.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7uCISJjKR463GWiJXr7QoQwNi/XfBnpJ3rIfttvHDqo="
+        }
+      ]
+    },
+    {
+      "Route": "images/babaya_mektup.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\babaya_mektup.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zjTaTUwff536haCtr883GOhRbwVjNwaHZ5sFzyAJBBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 06:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zjTaTUwff536haCtr883GOhRbwVjNwaHZ5sFzyAJBBk="
+        }
+      ]
+    },
+    {
+      "Route": "images/babaya_mektup.ykgx9cmt3b.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\babaya_mektup.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zjTaTUwff536haCtr883GOhRbwVjNwaHZ5sFzyAJBBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 06:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ykgx9cmt3b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/babaya_mektup.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zjTaTUwff536haCtr883GOhRbwVjNwaHZ5sFzyAJBBk="
+        }
+      ]
+    },
+    {
+      "Route": "images/bilinmeyen_bir_kadinin_mektubu.jojbpgfo55.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\bilinmeyen_bir_kadinin_mektubu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YyGEBq8eo/pJvAQlKuci4RG9pqtRv2QqctlPuVGWBc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:56:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jojbpgfo55"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bilinmeyen_bir_kadinin_mektubu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YyGEBq8eo/pJvAQlKuci4RG9pqtRv2QqctlPuVGWBc8="
+        }
+      ]
+    },
+    {
+      "Route": "images/bilinmeyen_bir_kadinin_mektubu.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\bilinmeyen_bir_kadinin_mektubu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YyGEBq8eo/pJvAQlKuci4RG9pqtRv2QqctlPuVGWBc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:56:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YyGEBq8eo/pJvAQlKuci4RG9pqtRv2QqctlPuVGWBc8="
+        }
+      ]
+    },
+    {
+      "Route": "images/dorian_gray_portresi.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dorian_gray_portresi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ExSC/ToAyHR4S5YvZDn4RtJcfZxBKAUSWIIUgIcbG24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ExSC/ToAyHR4S5YvZDn4RtJcfZxBKAUSWIIUgIcbG24="
+        }
+      ]
+    },
+    {
+      "Route": "images/dorian_gray_portresi.jsp6w7jmnc.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dorian_gray_portresi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ExSC/ToAyHR4S5YvZDn4RtJcfZxBKAUSWIIUgIcbG24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jsp6w7jmnc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dorian_gray_portresi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ExSC/ToAyHR4S5YvZDn4RtJcfZxBKAUSWIIUgIcbG24="
+        }
+      ]
+    },
+    {
+      "Route": "images/dusus.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dusus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Gl7mrBXnpX+rCpLPsyuYPSAl12bNGyMnAyL5J9a13Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Gl7mrBXnpX+rCpLPsyuYPSAl12bNGyMnAyL5J9a13Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/dusus.s86m1zwzi0.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dusus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Gl7mrBXnpX+rCpLPsyuYPSAl12bNGyMnAyL5J9a13Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s86m1zwzi0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dusus.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Gl7mrBXnpX+rCpLPsyuYPSAl12bNGyMnAyL5J9a13Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/emma.dcjvxshfiy.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\emma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfT9vm2rpo5WXDb1Bv6kx2qHXtoKwtgXOxuwOAopuF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:47:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcjvxshfiy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/emma.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfT9vm2rpo5WXDb1Bv6kx2qHXtoKwtgXOxuwOAopuF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/emma.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\emma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfT9vm2rpo5WXDb1Bv6kx2qHXtoKwtgXOxuwOAopuF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:47:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfT9vm2rpo5WXDb1Bv6kx2qHXtoKwtgXOxuwOAopuF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/fareler_ve_insanlar.2glly993qo.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\fareler_ve_insanlar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0tUilTUAuJoTv59TzfrE0w3VSuwYARUl5v8JZEUFSbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:56:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2glly993qo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fareler_ve_insanlar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0tUilTUAuJoTv59TzfrE0w3VSuwYARUl5v8JZEUFSbU="
+        }
+      ]
+    },
+    {
+      "Route": "images/fareler_ve_insanlar.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\fareler_ve_insanlar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0tUilTUAuJoTv59TzfrE0w3VSuwYARUl5v8JZEUFSbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:56:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0tUilTUAuJoTv59TzfrE0w3VSuwYARUl5v8JZEUFSbU="
+        }
+      ]
+    },
+    {
+      "Route": "images/genc_kiz_kalbi.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_kiz_kalbi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tbQpRu7tsnMCY4QtQ9F+HRc+BPdGxP+5MH7L/SNgV2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:54:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tbQpRu7tsnMCY4QtQ9F+HRc+BPdGxP+5MH7L/SNgV2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/genc_kiz_kalbi.l8kpmvtgd1.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_kiz_kalbi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tbQpRu7tsnMCY4QtQ9F+HRc+BPdGxP+5MH7L/SNgV2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:54:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8kpmvtgd1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/genc_kiz_kalbi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tbQpRu7tsnMCY4QtQ9F+HRc+BPdGxP+5MH7L/SNgV2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/genc_werther_acilari.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_werther_acilari.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+I9+Chyk0usmKkJGmMlylrcyxfA49BnBjmflxCsX6C0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:45:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+I9+Chyk0usmKkJGmMlylrcyxfA49BnBjmflxCsX6C0="
+        }
+      ]
+    },
+    {
+      "Route": "images/genc_werther_acilari.w6wcmvvr8j.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_werther_acilari.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+I9+Chyk0usmKkJGmMlylrcyxfA49BnBjmflxCsX6C0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:45:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w6wcmvvr8j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/genc_werther_acilari.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+I9+Chyk0usmKkJGmMlylrcyxfA49BnBjmflxCsX6C0="
+        }
+      ]
+    },
+    {
+      "Route": "images/hayatini_degistirmelisin.dgvy6na8k2.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayatini_degistirmelisin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vfW7z4395/h/OHSoQIUpBFIRlKVIEiRDZ9ik4XW8kpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgvy6na8k2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hayatini_degistirmelisin.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vfW7z4395/h/OHSoQIUpBFIRlKVIEiRDZ9ik4XW8kpM="
+        }
+      ]
+    },
+    {
+      "Route": "images/hayatini_degistirmelisin.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayatini_degistirmelisin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vfW7z4395/h/OHSoQIUpBFIRlKVIEiRDZ9ik4XW8kpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vfW7z4395/h/OHSoQIUpBFIRlKVIEiRDZ9ik4XW8kpM="
+        }
+      ]
+    },
+    {
+      "Route": "images/hayvanlasan_insan.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayvanlasan_insan.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ve79g3K9orPiSlRxYbtMOgMQxDCemSyjAbdLHMXuPP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:51:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ve79g3K9orPiSlRxYbtMOgMQxDCemSyjAbdLHMXuPP8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hayvanlasan_insan.nhzgej8iwb.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayvanlasan_insan.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ve79g3K9orPiSlRxYbtMOgMQxDCemSyjAbdLHMXuPP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:51:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nhzgej8iwb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hayvanlasan_insan.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ve79g3K9orPiSlRxYbtMOgMQxDCemSyjAbdLHMXuPP8="
+        }
+      ]
+    },
+    {
+      "Route": "images/idam_mahkumunun_son_gunu.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\idam_mahkumunun_son_gunu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fzZGWixyClGJgnQJqmNs9ailD5//wkMbQ3HnuckJOgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:48:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzZGWixyClGJgnQJqmNs9ailD5//wkMbQ3HnuckJOgI="
+        }
+      ]
+    },
+    {
+      "Route": "images/idam_mahkumunun_son_gunu.xgudijj5b6.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\idam_mahkumunun_son_gunu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fzZGWixyClGJgnQJqmNs9ailD5//wkMbQ3HnuckJOgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:48:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xgudijj5b6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/idam_mahkumunun_son_gunu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzZGWixyClGJgnQJqmNs9ailD5//wkMbQ3HnuckJOgI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jane_eyre.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\jane_eyre.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e28AmuD2h6us72NvVQ2ml5zjQuRVUy0qe6puA1B1Rg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:49:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e28AmuD2h6us72NvVQ2ml5zjQuRVUy0qe6puA1B1Rg0="
+        }
+      ]
+    },
+    {
+      "Route": "images/jane_eyre.lgn7a5qwp3.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\jane_eyre.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e28AmuD2h6us72NvVQ2ml5zjQuRVUy0qe6puA1B1Rg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:49:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgn7a5qwp3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jane_eyre.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e28AmuD2h6us72NvVQ2ml5zjQuRVUy0qe6puA1B1Rg0="
+        }
+      ]
+    },
+    {
+      "Route": "images/kadinlar_ulkesi.9mn8w27epl.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kadinlar_ulkesi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b35yBWHEo26HIrEXfUyJS8/dt9NfSO74E0MHew+pOHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9mn8w27epl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/kadinlar_ulkesi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b35yBWHEo26HIrEXfUyJS8/dt9NfSO74E0MHew+pOHo="
+        }
+      ]
+    },
+    {
+      "Route": "images/kadinlar_ulkesi.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kadinlar_ulkesi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b35yBWHEo26HIrEXfUyJS8/dt9NfSO74E0MHew+pOHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b35yBWHEo26HIrEXfUyJS8/dt9NfSO74E0MHew+pOHo="
+        }
+      ]
+    },
+    {
+      "Route": "images/kizil_veba.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kizil_veba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ImbB0MGu7YqWzN6f/ds3zLYuQMLNAktORuCzKtEGu24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:55:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ImbB0MGu7YqWzN6f/ds3zLYuQMLNAktORuCzKtEGu24="
+        }
+      ]
+    },
+    {
+      "Route": "images/kizil_veba.u04azdp278.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kizil_veba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ImbB0MGu7YqWzN6f/ds3zLYuQMLNAktORuCzKtEGu24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:55:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u04azdp278"
+        },
+        {
+          "Name": "label",
+          "Value": "images/kizil_veba.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ImbB0MGu7YqWzN6f/ds3zLYuQMLNAktORuCzKtEGu24="
+        }
+      ]
+    },
+    {
+      "Route": "images/kucuk_prens.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kucuk_prens.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QT0wwOEyHlL6jHsX34W92LBKCEI7wo69Nj2gcHz/nRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:57:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QT0wwOEyHlL6jHsX34W92LBKCEI7wo69Nj2gcHz/nRo="
+        }
+      ]
+    },
+    {
+      "Route": "images/kucuk_prens.rx4jj8tptw.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kucuk_prens.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QT0wwOEyHlL6jHsX34W92LBKCEI7wo69Nj2gcHz/nRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:57:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rx4jj8tptw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/kucuk_prens.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QT0wwOEyHlL6jHsX34W92LBKCEI7wo69Nj2gcHz/nRo="
+        }
+      ]
+    },
+    {
+      "Route": "images/mansfield_park.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\mansfield_park.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "511022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x9NK6rZ0+r3uw/eQj96EWr2BBthLGuKIlJddGOe7uEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:47:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x9NK6rZ0+r3uw/eQj96EWr2BBthLGuKIlJddGOe7uEc="
+        }
+      ]
+    },
+    {
+      "Route": "images/mansfield_park.xeaij9jhdt.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\mansfield_park.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "511022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x9NK6rZ0+r3uw/eQj96EWr2BBthLGuKIlJddGOe7uEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:47:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xeaij9jhdt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mansfield_park.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x9NK6rZ0+r3uw/eQj96EWr2BBthLGuKIlJddGOe7uEc="
+        }
+      ]
+    },
+    {
+      "Route": "images/martin_eden.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\martin_eden.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ghzl2+YDUJgfzdj7+d26Rp9mwHLHOYV7Z4uOoSFGmN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ghzl2+YDUJgfzdj7+d26Rp9mwHLHOYV7Z4uOoSFGmN4="
+        }
+      ]
+    },
+    {
+      "Route": "images/martin_eden.mzoo4tbrux.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\martin_eden.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ghzl2+YDUJgfzdj7+d26Rp9mwHLHOYV7Z4uOoSFGmN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mzoo4tbrux"
+        },
+        {
+          "Name": "label",
+          "Value": "images/martin_eden.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ghzl2+YDUJgfzdj7+d26Rp9mwHLHOYV7Z4uOoSFGmN4="
+        }
+      ]
+    },
+    {
+      "Route": "images/otomatik_portakal.g4vv0g4thv.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\otomatik_portakal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UG+n71XtHPZT7KNtT6RmrSKbDZmmE+qYhadP8vz9zgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4vv0g4thv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/otomatik_portakal.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UG+n71XtHPZT7KNtT6RmrSKbDZmmE+qYhadP8vz9zgk="
+        }
+      ]
+    },
+    {
+      "Route": "images/otomatik_portakal.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\otomatik_portakal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UG+n71XtHPZT7KNtT6RmrSKbDZmmE+qYhadP8vz9zgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UG+n71XtHPZT7KNtT6RmrSKbDZmmE+qYhadP8vz9zgk="
+        }
+      ]
+    },
+    {
+      "Route": "images/pp.4480l2v3jp.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\pp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FFbkJQh3F5ccjyyZ52zjVzSW4y2DnqnLwlhw7VIZVUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 09:58:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4480l2v3jp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pp.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FFbkJQh3F5ccjyyZ52zjVzSW4y2DnqnLwlhw7VIZVUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/pp.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\pp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FFbkJQh3F5ccjyyZ52zjVzSW4y2DnqnLwlhw7VIZVUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 09:58:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FFbkJQh3F5ccjyyZ52zjVzSW4y2DnqnLwlhw7VIZVUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/sisifos_soyleni.0gmmo39gs4.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\sisifos_soyleni.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4FARDhAxD8KILNgZAJjUSh8t5TX7uHg9BXlMLZnMW/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:57:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0gmmo39gs4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sisifos_soyleni.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4FARDhAxD8KILNgZAJjUSh8t5TX7uHg9BXlMLZnMW/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/sisifos_soyleni.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\sisifos_soyleni.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4FARDhAxD8KILNgZAJjUSh8t5TX7uHg9BXlMLZnMW/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:57:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4FARDhAxD8KILNgZAJjUSh8t5TX7uHg9BXlMLZnMW/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/talat_ve_fitnat.3iiwlrifmj.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\talat_ve_fitnat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VXmIQIDpRvC4/SvbExdWrGHTv7zbiep6PpRZd8T9Lec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:50:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3iiwlrifmj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/talat_ve_fitnat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VXmIQIDpRvC4/SvbExdWrGHTv7zbiep6PpRZd8T9Lec="
+        }
+      ]
+    },
+    {
+      "Route": "images/talat_ve_fitnat.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\talat_ve_fitnat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VXmIQIDpRvC4/SvbExdWrGHTv7zbiep6PpRZd8T9Lec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:50:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VXmIQIDpRvC4/SvbExdWrGHTv7zbiep6PpRZd8T9Lec="
+        }
+      ]
+    },
+    {
+      "Route": "images/veba.7l8lawfeh3.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\veba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1j6l+duQQYmvD5gyXSpSDNfkh4bjBW1ZjJckaIP+Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7l8lawfeh3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/veba.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1j6l+duQQYmvD5gyXSpSDNfkh4bjBW1ZjJckaIP+Yw="
+        }
+      ]
+    },
+    {
+      "Route": "images/veba.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\veba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1j6l+duQQYmvD5gyXSpSDNfkh4bjBW1ZjJckaIP+Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1j6l+duQQYmvD5gyXSpSDNfkh4bjBW1ZjJckaIP+Yw="
+        }
+      ]
+    },
+    {
+      "Route": "images/yabanci.i8pe4stx09.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yabanci.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgQG59g4hKH3HAObamqjq3757bKZQhz/0N9Oac819bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i8pe4stx09"
+        },
+        {
+          "Name": "label",
+          "Value": "images/yabanci.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgQG59g4hKH3HAObamqjq3757bKZQhz/0N9Oac819bY="
+        }
+      ]
+    },
+    {
+      "Route": "images/yabanci.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yabanci.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgQG59g4hKH3HAObamqjq3757bKZQhz/0N9Oac819bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgQG59g4hKH3HAObamqjq3757bKZQhz/0N9Oac819bY="
+        }
+      ]
+    },
+    {
+      "Route": "images/yasar_ne_yasar.8chseclbqc.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yasar_ne_yasar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yNSdtb3ipShdjqZUDgTS1aILQLCVgA9B9PyA0tk5gLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8chseclbqc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/yasar_ne_yasar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNSdtb3ipShdjqZUDgTS1aILQLCVgA9B9PyA0tk5gLU="
+        }
+      ]
+    },
+    {
+      "Route": "images/yasar_ne_yasar.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yasar_ne_yasar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yNSdtb3ipShdjqZUDgTS1aILQLCVgA9B9PyA0tk5gLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 20:59:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNSdtb3ipShdjqZUDgTS1aILQLCVgA9B9PyA0tk5gLU="
+        }
+      ]
+    },
+    {
+      "Route": "images/zaman_makinesi.f9qhs9nn4u.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\zaman_makinesi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"My/ovZekgUkaBLd/P0MXgIRVjyUa5fyxdTtGVjONdEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 06:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9qhs9nn4u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/zaman_makinesi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-My/ovZekgUkaBLd/P0MXgIRVjyUa5fyxdTtGVjONdEM="
+        }
+      ]
+    },
+    {
+      "Route": "images/zaman_makinesi.jpg",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\zaman_makinesi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"My/ovZekgUkaBLd/P0MXgIRVjyUa5fyxdTtGVjONdEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 06:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-My/ovZekgUkaBLd/P0MXgIRVjyUa5fyxdTtGVjONdEM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/reset.97mlqvk7dd.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\fqq9308tyf-97mlqvk7dd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001610305958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QqTF9bwzOazmcD2mRidCCnZeFIs0NMrofsCfvmcCa1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "97mlqvk7dd"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/reset.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/reset.97mlqvk7dd.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\reset.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "97mlqvk7dd"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/reset.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/reset.97mlqvk7dd.css.gz",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\fqq9308tyf-97mlqvk7dd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QqTF9bwzOazmcD2mRidCCnZeFIs0NMrofsCfvmcCa1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "97mlqvk7dd"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/reset.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QqTF9bwzOazmcD2mRidCCnZeFIs0NMrofsCfvmcCa1k="
+        }
+      ]
+    },
+    {
+      "Route": "styles/reset.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\fqq9308tyf-97mlqvk7dd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001610305958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QqTF9bwzOazmcD2mRidCCnZeFIs0NMrofsCfvmcCa1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/reset.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\reset.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZmV38VHeNIvi40eq6/QdMIG9ZG2TtOXrMAGEwWJMXk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/reset.css.gz",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\fqq9308tyf-97mlqvk7dd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QqTF9bwzOazmcD2mRidCCnZeFIs0NMrofsCfvmcCa1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QqTF9bwzOazmcD2mRidCCnZeFIs0NMrofsCfvmcCa1k="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\t0p9r72a74-mtlk87io0h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001111111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LlkR64qXMIVuTsY1up0bBr4ZwNOyKQutANeVMQpPQo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.css.gz",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\t0p9r72a74-mtlk87io0h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LlkR64qXMIVuTsY1up0bBr4ZwNOyKQutANeVMQpPQo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LlkR64qXMIVuTsY1up0bBr4ZwNOyKQutANeVMQpPQo4="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.mtlk87io0h.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\t0p9r72a74-mtlk87io0h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001111111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LlkR64qXMIVuTsY1up0bBr4ZwNOyKQutANeVMQpPQo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtlk87io0h"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.mtlk87io0h.css",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtlk87io0h"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hrCgFoXqdH3KICwte1zi1dp2TEaiBoC3t3x56zwV7L8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.mtlk87io0h.css.gz",
+      "AssetFile": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\obj\\Debug\\net9.0\\compressed\\t0p9r72a74-mtlk87io0h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LlkR64qXMIVuTsY1up0bBr4ZwNOyKQutANeVMQpPQo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtlk87io0h"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LlkR64qXMIVuTsY1up0bBr4ZwNOyKQutANeVMQpPQo4="
+        }
+      ]
+    }
+  ]
+}

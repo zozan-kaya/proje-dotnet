@@ -1,0 +1,45 @@
+@model kitapBlog.Models.ViewModels.KitapVM
+@{
+    string text = Model.adi;
+    ViewData["Title"] = "Kitap - " + text;
+}
+
+<head>
+    <style>
+        .info span {
+            display: block;
+        }
+
+        .article-text::first-letter {
+            font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+            font-size: 300%;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<div class="row d-flex align-items-center">
+    <div class="col-xl-2 col-lg-4 d-flex justify-content-center align-items-sm-start col-sm-6 col-12">
+        <img src="~/images/@Model.resim">
+    </div>
+    <div class="col-xl-3 col-6 col-sm-6 col-12 ps-xl-5 ps-0">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item inherit-backcolor theme-secondary-text fw-semibold">Kitap Adı : <span
+                    class="fw-normal">@Model.adi</span></li>
+            <li class="list-group-item inherit-backcolor theme-secondary-text fw-semibold">Yazarı : <span
+                    class="fw-normal">@Model.yazarAdi</span></li>
+            <li class="list-group-item inherit-backcolor theme-secondary-text fw-semibold">Sayfa Sayısı :
+                <span class="fw-normal">@Model.sayfaSayisi</span>
+            </li>
+            <li class="list-group-item inherit-backcolor theme-secondary-text fw-semibold">Yayına Çıktığı
+                Yıl : <span class="fw-normal">@Model.yayinTarihi</span></li>
+        </ul>
+    </div>
+    <div class="col-xl-1 col-0"></div>
+    <div class="col-xl-6 col-12 mb-5">
+        <p class="article-text" style="line-height: 1.35;">@Model.ozet</p>
+    </div>
+    <div class="row mt-2">
+        <h3>Yorumlarım</h3>
+        <p>@Model.yorum</p>
+    </div>
+</div>

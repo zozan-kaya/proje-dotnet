@@ -1,0 +1,170 @@
+.link-account {
+    border-radius: 50%;
+    width: 32px;
+    border: 1px solid #adaaadff;
+    aspect-ratio: 1;
+}
+
+.primary-element {
+    background-color: #f5f7f3;
+}
+
+/* for navbar or secondary heads etc.*/
+.secondary-element {
+    background-color: #e5e9e2;
+}
+
+.third-element {
+    background-color: #dcdfd9;
+}
+
+.custom-btn {
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+    color: #252525;
+    background-color: #a7b48d;
+    padding: 5px 15px 5px 15px;
+    min-width: 75px;
+    max-width: 225px;
+    height: 50px;
+}
+
+.theme-primary-text {
+    color: #252525;
+}
+
+.active-page {
+    color: #a7b48d !important;
+}
+
+.theme-secondary-text {
+    color: #505050;
+}
+
+.theme-third-text {
+    color: #757575;
+}
+
+.theme-important-text {
+    color: #ffbe6e;
+}
+
+.hover-color {
+    transition: all .25s ease;
+}
+
+.inherit-color {
+    color: inherit;
+}
+
+.inherit-backcolor {
+    background-color: inherit;
+}
+
+.hover-border {
+    position: relative;
+}
+
+.hover-border::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #a7b48d;
+    transition: transform 0.25s ease-out;
+}
+
+.hover-shadow-resize {
+    transition: box-shadow .25s ease-out, transform .25s ease-out;
+}
+
+.hover-shadow-resize:hover {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+    transform: scale(1.015);
+}
+
+.hover-border:hover::after {
+    transform: scaleX(1);
+}
+
+
+.image-holder {
+    overflow: hidden;
+}
+
+.hover-color:hover {
+    color: #a7b48d;
+    transition: color 0.5s;
+}
+
+.shadow-md {
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
+}
+
+.hero {
+    background-image: url("https://picsum.photos/id/530/1500/1500");
+    background-position: center;
+}
+
+#hero-opacity-controller {
+    background-color: #00000070;
+    flex: 1;
+}
+
+.responsive-pp {
+    width: 75%;
+    object-fit: cover;
+}
+
+
+.fixed-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.fixed-footer-contact {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+@media screen and (max-width: 1200px) {
+    .fixed-footer {
+        position: relative;
+        width: 100%;
+    }
+}
+
+.limited-text {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.ppholder {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 60%;
+    max-width: 200px;
+    min-width: 90px;
+    margin: 0 auto;
+}
+
+.thumbnail-holder {
+    width: 200px;
+    aspect-ratio: 200px;
+    overflow: hidden;
+}
+
+.cardbox {
+    width: 75%;
+    border-radius: 10px;
+    border: 1px solid #cfcfcf;
+}

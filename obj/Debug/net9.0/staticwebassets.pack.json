@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\1984.jpg",
+      "PackagePath": "staticwebassets\\images\\1984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\agnes_grey.jpg",
+      "PackagePath": "staticwebassets\\images\\agnes_grey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\akhilleus_sarkisi.jpg",
+      "PackagePath": "staticwebassets\\images\\akhilleus_sarkisi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\algernon_cicekler.jpg",
+      "PackagePath": "staticwebassets\\images\\algernon_cicekler.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\babaya_mektup.jpg",
+      "PackagePath": "staticwebassets\\images\\babaya_mektup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\bilinmeyen_bir_kadinin_mektubu.jpg",
+      "PackagePath": "staticwebassets\\images\\bilinmeyen_bir_kadinin_mektubu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dorian_gray_portresi.jpg",
+      "PackagePath": "staticwebassets\\images\\dorian_gray_portresi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\dusus.jpg",
+      "PackagePath": "staticwebassets\\images\\dusus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\emma.jpg",
+      "PackagePath": "staticwebassets\\images\\emma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\fareler_ve_insanlar.jpg",
+      "PackagePath": "staticwebassets\\images\\fareler_ve_insanlar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_kiz_kalbi.jpg",
+      "PackagePath": "staticwebassets\\images\\genc_kiz_kalbi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\genc_werther_acilari.jpg",
+      "PackagePath": "staticwebassets\\images\\genc_werther_acilari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayatini_degistirmelisin.jpg",
+      "PackagePath": "staticwebassets\\images\\hayatini_degistirmelisin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\hayvanlasan_insan.jpg",
+      "PackagePath": "staticwebassets\\images\\hayvanlasan_insan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\idam_mahkumunun_son_gunu.jpg",
+      "PackagePath": "staticwebassets\\images\\idam_mahkumunun_son_gunu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\jane_eyre.jpg",
+      "PackagePath": "staticwebassets\\images\\jane_eyre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kadinlar_ulkesi.jpg",
+      "PackagePath": "staticwebassets\\images\\kadinlar_ulkesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kizil_veba.jpg",
+      "PackagePath": "staticwebassets\\images\\kizil_veba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\kucuk_prens.jpg",
+      "PackagePath": "staticwebassets\\images\\kucuk_prens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\mansfield_park.jpg",
+      "PackagePath": "staticwebassets\\images\\mansfield_park.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\martin_eden.jpg",
+      "PackagePath": "staticwebassets\\images\\martin_eden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\otomatik_portakal.jpg",
+      "PackagePath": "staticwebassets\\images\\otomatik_portakal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\pp.jpg",
+      "PackagePath": "staticwebassets\\images\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\sisifos_soyleni.jpg",
+      "PackagePath": "staticwebassets\\images\\sisifos_soyleni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\talat_ve_fitnat.jpg",
+      "PackagePath": "staticwebassets\\images\\talat_ve_fitnat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\veba.jpg",
+      "PackagePath": "staticwebassets\\images\\veba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yabanci.jpg",
+      "PackagePath": "staticwebassets\\images\\yabanci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\yasar_ne_yasar.jpg",
+      "PackagePath": "staticwebassets\\images\\yasar_ne_yasar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\images\\zaman_makinesi.jpg",
+      "PackagePath": "staticwebassets\\images\\zaman_makinesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\reset.css",
+      "PackagePath": "staticwebassets\\styles\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\OneDrive\\Masaüstü\\projeDotnet\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.projeDotnet.props",
+      "PackagePath": "build\\projeDotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.projeDotnet.props",
+      "PackagePath": "buildMultiTargeting\\projeDotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.projeDotnet.props",
+      "PackagePath": "buildTransitive\\projeDotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.projeDotnet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.projeDotnet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

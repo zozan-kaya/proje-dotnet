@@ -1,0 +1,119 @@
+﻿@{
+    ViewData["Title"] = "Anasayfa";
+}
+
+@model List<kitapBlog.Models.ViewModels.IndexVM>
+
+<div class="text-white rounded-3 hero image-holder h-50">
+    <div id="hero-opacity-controller"
+        class="p-3 p-md-5 h-100 d-flex align-items-center justify-content-center flex-column">
+        <h3 style="color: #fff;">Kitap Blog</h3>
+        <p style="color: #bbb;" class="fs-5">Kitap Blog Siteme Hoş geldiniz</p>
+    </div>
+</div>
+<div class="row secondary-element rounded-3 py-3 d-flex flex-lg-row flex-column align-items-center my-5">
+    <div class="col-lg-2 col-12 d-flex align-items-center justify-content-center">
+        <div class="d-flex flex-column gap-2 w-100 align-items-center justify-content-center">
+            <div class="responsive-pp ppholder">
+                <img src="~/images/pp.jpg" alt="">
+            </div>
+            <span class="fs-5 theme-primary-text">Zozan Kaya</span>
+        </div>
+    </div>
+    <!-- hakkımda kısmı -->
+    <section class="row col-10 mb-2">
+        <h3 class="w-100 text-md-start theme-primary-text text-center">Merhaba!</h3>
+        <hr class="theme-secondary-text">
+        <div class="d-flex flex-md-row flex-column align-items-md-start align-items-center justify-content-center">
+            <p class="theme-third-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam,
+                error? Iusto nihil esse,
+                aspernatur quod sapiente quisquam obcaecati soluta, voluptatem praesentium, vero impedit!
+                Voluptate,
+                ut excepturi commodi qui tempore sit.
+                Reiciendis dignissimos eaque, facere voluptatum quos inventore commodi delectus ratione
+                excepturi
+                nulla culpa! Ut expedita excepturi placeat totam assumenda repellat velit fugiat tempora dolorem
+                illo! Pariatur nobis excepturi nemo labore.
+                Et rem ea tenetur voluptate necessitatibus placeat est reprehenderit atque dolorum quasi dolor
+                quidem eius ducimus perferendis in dolore assumenda dolorem, fugiat, aliquid pariatur nostrum
+                voluptas iure tempore modi. Minima! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Delectus, expedita totam. Culpa maxime unde praesentium sequi tempora. Voluptas, obcaecati
+                laboriosam quis perferendis error repudiandae ab vitae ullam? Repellat, necessitatibus
+                excepturi!</p>
+        </div>
+    </section>
+</div>
+<hr class="theme-secondary-text">
+<section class="row">
+    <h3 class="w-100 text-center theme-primary-text pb-2">Neden Kitaplar?</h3>
+    <p class="theme-third-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum libero
+        reprehenderit
+        consectetur, a eum ex minima laudantium exercitationem atque iusto dignissimos eligendi necessitatibus
+        impedit nam labore repellendus quidem eveniet consequatur?
+        Illum nihil reprehenderit praesentium sapiente aliquam, sit consectetur aperiam ipsa nulla ipsam quasi
+        ea, explicabo hic rerum omnis. Odio reprehenderit perspiciatis animi quas repellat minima beatae
+        obcaecati amet provident minus!
+        Quam laboriosam molestias hic accusamus vel totam ea magnam ipsam, doloremque illum atque commodi
+        quisquam maiores aliquid ex voluptatibus, numquam minima inventore! Minima, fugit! Nesciunt sed at
+        impedit incidunt voluptatibus.</p>
+</section>
+<hr class="theme-secondary-text">
+<section class="d-flex align-items-center gap-3 flex-column pt-2 pb-5">
+    <div class="w-100 d-flex align-items-center justify-content-between">
+        <h3>Son Eklenen Kitaplar</h3>
+        <a class="hover-color text-decoration-underline" asp-controller="Home" asp-action="Blog">Tümünü Göster</a>
+    </div>
+    @foreach (var kitap in Model)
+    {
+        <div
+            class="cardbox hover-shadow-resize row d-flex flex-sm-row flex-column justify-content-center align-items-center gap-2">
+            <div class="col-3 thumbnail-holder ">
+                <a href="/kitap/@kitap.id">
+                    <img src="~/images/@kitap.resim" class="img-thumbnail">
+                </a>
+            </div>
+            <div class="col-9 d-flex flex-column gap-3">
+                <div>
+                    <h4 class="theme-primary-text">@kitap.adi</h4>
+                    <span class="theme-secondary-text">@kitap.yayinTarihi</span>
+                </div>
+                <p class="theme-third-text limited-text">@kitap.on_soz</p>
+            </div>
+        </div>
+    }
+</section>
+<hr class="theme-secondary-text">
+<section class="d-flex secondary-element rounded-3 flex-column justify-content-center align-items-center p-4">
+    <h3 class="theme-primary-text">Bana Ulaşın</h3>
+    <p class="theme-third-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate aspernatur
+        culpa labore odit cumque sapiente saepe, est quo libero omnis! Ducimus similique cupiditate autem
+        corrupti at quas nulla tempore voluptatibus.</p>
+    <a asp-controller="Home" asp-action="Contact" class="custom-btn rounded-3 hover-shadow-resize">Beni Oraya Götür</a>
+</section>
+<script>
+    let Model = @Html.Raw(Json.Serialize(Model));
+    @* Html.Raw(Json.Serialize(Model)); Kodu ne işe yarar?
+        Bu komut model ile yollanan verileri json formatına çevirir.
+        Bu şekilde script kısımlarında bunu kullanabilir hale geliriz.
+     *@
+
+        document.addEventListener("DOMContentLoaded", function () {
+            @* DOMContentLoaded nedir?
+            Sayfadaki tüm HTML elementleri yüklendiğinde bir kod çalıştırmayı sağlar.
+            bunu yapmak "cannot set properties of undefined" hatasını almayı önler.
+            (yani olmayan bir şeye değer atayamam demesin diye)
+         *@
+
+                let elements = document.getElementsByClassName("limited-text");
+
+            Model.forEach((Kitaplar, index) => {
+                @* Tüm modeli tarar
+                kitaplar her kitap "Kitaplar"a alınır ve index'e göre sırasını öğrenmemizi sağlar
+                birden fazla "limited-text" olduğundan dolayı karışıklığı önlemek için index kullanılır *@
+
+                    let text = Kitaplar.on_soz;
+                elements[index].textContent = text.substring(0, 100) + "...";
+                @* Aynı class'a sahip elemanlardan index ile seçim yapıp bir limit veriyoruz ve ardından ... ekliyoruz *@
+            });
+        });
+</script>

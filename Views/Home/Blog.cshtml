@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "Blog";
+}
+
+<h3 class="w-100 text-center fw-semibold">BLOG</h3>
+<section class="d-flex align-items-center gap-3 flex-column pt-2 pb-5">
+    @foreach (var kitap in Model)
+    {
+        <div
+            class="cardbox hover-shadow-resize row d-flex flex-sm-row flex-column justify-content-center align-items-center gap-2">
+            <div class="col-3 thumbnail-holder ">
+                <a href="/kitap/@kitap.id">
+                    <img src="~/images/@kitap.resim" class="img-thumbnail">
+                </a>
+            </div>
+            <div class="col-9 d-flex flex-column gap-3">
+                <div>
+                    <h4 class="theme-primary-text">@kitap.adi</h4>
+                    <span class="theme-secondary-text">@kitap.yayinTarihi</span>
+                </div>
+                <p class="theme-third-text limited-text">@kitap.on_soz</p>
+            </div>
+        </div>
+    }
+</section>
+<hr class="theme-secondary-text">
+
+<script>
+    let Model = @Html.Raw(Json.Serialize(Model));
+    @* Html.Raw(Json.Serialize(Model)); Kodu ne işe yarar?
+        Bu komut model ile yollanan verileri json formatına çevirir.
+        Bu şekilde script kısımlarında bunu kullanabilir hale geliriz.
+     *@
+
+        document.addEventListener("DOMContentLoaded", function () {
+            @* DOMContentLoaded nedir?
+            Sayfadaki tüm HTML elementleri yüklendiğinde bir kod çalıştırmayı sağlar.
+            bunu yapmak "cannot set properties of undefined" hatasını almayı önler.
+            (yani olmayan bir şeye değer atayamam demesin diye)
+         *@
+
+                let elements = document.getElementsByClassName("limited-text");
+
+            Model.forEach((Kitaplar, index) => {
+                @* Tüm modeli tarar
+                kitaplar her kitap "Kitaplar"a alınır ve index'e göre sırasını öğrenmemizi sağlar
+                birden fazla "limited-text" olduğundan dolayı karışıklığı önlemek için index kullanılır *@
+
+                    let text = Kitaplar.on_soz;
+                elements[index].textContent = text.substring(0, 100) + "...";
+                @* Aynı class'a sahip elemanlardan index ile seçim yapıp bir limit veriyoruz ve ardından ... ekliyoruz *@
+            });
+        });
+</script>
