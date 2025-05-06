@@ -1,98 +1,115 @@
-@{
-    ViewData["Title"] = "Anasayfa";
-}
+<html lang="tr">
 
-@model List<kitapBlog.Models.ViewModels.IndexVM>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="~/favicon.ico">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css"
+        integrity="sha512-jnSuA4Ss2PkkikSOLtYs8BlYIeeIK1h99ty4YfvRPAlzr377vr3CXDb7sb7eEEBYjDtcYj+AjBH3FLv5uSJuXg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<div class="text-white rounded-3 hero image-holder h-50">
-    <div id="hero-opacity-controller"
-        class="p-3 p-md-5 h-100 d-flex align-items-center justify-content-center flex-column">
-        <h3 style="color: #fff;">Kitap Blog</h3>
-        <p style="color: #bbb;" class="fs-5">Kitap Blog Siteme Hoş geldiniz</p>
-    </div>
-</div>
-<div class="row secondary-element rounded-3 py-3 d-flex flex-lg-row flex-column align-items-center my-5">
-    <div class="col-lg-2 col-12 d-flex align-items-center justify-content-center">
-        <div class="d-flex flex-column gap-2 w-100 align-items-center justify-content-center">
-            <div class="responsive-pp ppholder">
-                <img src="~/images/pp.jpg" alt="">
-            </div>
-            <span class="fs-5 theme-primary-text">Zozan Kaya</span>
-        </div>
-    </div>
-    <!-- hakkımda kısmı -->
-    <section class="row col-10 mb-2">
-        <h3 class="w-100 text-md-start theme-primary-text text-center">Merhaba!</h3>
-        <hr class="theme-secondary-text">
-        <div class="d-flex flex-md-row flex-column align-items-md-start align-items-center justify-content-center">
-            <p class="theme-third-text">Kitap Blog'uma Hoş geldiniz.</p>
-        </div>
-    </section>
-</div>
-<hr class="theme-secondary-text">
-<section class="row">
-    <h3 class="w-100 text-center theme-primary-text pb-2">Neden Kitaplar?</h3>
-    <p class="theme-third-text">Kitap okumak, farklı dünyalara açılan kapıları aralamanın en iyi ve keyifli yoludur.
-         Hiç göremeyeceğimiz yerleri görmek, şahit olamayacağımız hikayelerin içerisinde yaşamak,
-          en doğru bilgilere ulaşmak adına atılabilecek en güzel adımdır. Kitaplar yalnızca spesifik bir konuda bilgi veren araçlar değildir.
-           Sayısız faydası ile, insanın en yakın arkadaşlarından biridir aynı zamanda. Düzenli bir eylem haline getirildiğinde kitap okumak,
-           bir insanın kendi için yapabileceği en büyük iyilik olabilir.</p>
-</section>
-<hr class="theme-secondary-text">
-<section class="d-flex align-items-center gap-3 flex-column pt-2 pb-5">
-    <div class="w-100 d-flex align-items-center justify-content-between">
-        <h3>Son Eklenen Kitaplar</h3>
-        <a class="hover-color text-decoration-underline" asp-controller="Home" asp-action="Blog">Tümünü Göster</a>
-    </div>
-    @foreach (var kitap in Model)
-    {
-        <div
-            class="cardbox hover-shadow-resize row d-flex flex-sm-row flex-column justify-content-center align-items-center gap-2">
-            <div class="col-3 thumbnail-holder ">
-                <a href="/kitap/@kitap.id">
-                    <img src="~/images/@kitap.resim" class="img-thumbnail">
-                </a>
-            </div>
-            <div class="col-9 d-flex flex-column gap-3">
-                <div>
-                    <h4 class="theme-primary-text">@kitap.adi</h4>
-                    <span class="theme-secondary-text">@kitap.yayinTarihi</span>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+    <link rel="stylesheet" href="~/styles/reset.css">
+    <link rel="stylesheet" href="~/styles/style.css">
+</head>
+
+<body class="primary-element">
+
+    <div class="container">
+        <header class="py-3">
+            <div class="row flex-column flex-sm-row gap-3 gap-sm-0 justify-content-between align-items-center">
+                <div class="col-4 d-flex gap-2 justify-content-center">
+                    <a class="link-account hover-color theme-primary-text text-decoration-none
+                             d-flex justify-content-center align-items-center p-2"
+                        href="mailto:zozankaye295@gmail.com">
+                        <i class="fa-solid fa-envelope theme-secondary-text inherit-color"></i>
+                    </a>
+                    <a href="https://x.com/ZozanKaya573310" class="link-account hover-color theme-primary-text text-decoration-none
+                             d-flex justify-content-center align-items-center p-2">
+                        <i class="fa-brands fa-twitter theme-secondary-text inherit-color"></i>
+                    </a>
+                    <a href="https://github.com/zozan-kaya/" class="link-account hover-color theme-primary-text text-decoration-none
+                             d-flex justify-content-center align-items-center p-2">
+                        <i class="fa-brands theme-secondary-text inherit-color fa-github"></i>
+                    </a>
                 </div>
-                <p class="theme-third-text limited-text">@kitap.on_soz</p>
+                <div class="col-sm-4 col-12 d-flex justify-content-center">
+                    <a style="font-size: 30px; font-weight: 600;" class="text-center" href="index.html">Zozan Kaya</a>
+                </div>
+                <div class="col-4"></div>
+            </div>
+
+            <div class="d-flex align-items-center w-100 justify-content-center">
+                <hr class="theme-secondary-text" style="width: 87.5%;">
+            </div>
+            <div class="nav-scroller py-1 mb-2 d-flex align-items-center justify-content-center">
+                <nav class="nav d-flex flex-sm-row flex-column gap-sm-5 gap-2 justify-content-center">
+                    <a style="font-weight: 600;"
+                        class="p-2 theme-secondary-text @(ViewBag.active == "index" ? "active-page" : "hover-color hover-border")"
+                        asp-controller="Home" asp-action="Index">Anasayfa</a>
+                    <a style="font-weight: 600;"
+                        class="p-2 theme-secondary-text @(ViewBag.active == "about" ? "active-page" : "hover-color hover-border")"
+                        asp-controller="Home" asp-action="About">Hakkımda</a>
+                    <a style="font-weight: 600;"
+                        class="p-2 theme-secondary-text @(ViewBag.active == "blog" ? "active-page" : "hover-color hover-border")"
+                        asp-controller="Home" asp-action="Blog">Blog</a>
+                    <a style="font-weight: 600;"
+                        class="p-2 theme-secondary-text @(ViewBag.active == "contact" ? "active-page" : "hover-color hover-border")"
+                        asp-controller="Home" asp-action="Contact">İletişim</a>
+                </nav>
+            </div>
+            <hr class="theme-secondary-text">
+        </header>
+    </div>
+
+    <main role="main" class="container mb-5">
+        @RenderBody()
+    </main>
+    <footer
+        class="@(ViewBag.active == "blog-post" ? "fixed-footer" : "") @(ViewBag.active == "contact" ? "fixed-footer-contact" : "") d-flex flex-column justify-content-center align-items-center third-element pt-3 pb-3 ">
+        <div class="d-flex flex-column flex-md-row w-50 justify-content-lg-between justify-content-center gap-5 mb-4">
+            <div>
+                <h5 style="font-weight: 600; margin-bottom: -10px;">Sayfalar</h5>
+                <hr>
+                <div class="d-flex flex-column gap-2">
+                    <a class="hover-border" href="index.html">Anasayfa</a>
+                    <a class="hover-border" href="about.html">Hakkımda</a>
+                    <a class="hover-border w-75" href="contact.html">İletişim</a>
+                    <a class="hover-border w-50" href="blog.html">Blog</a>
+                </div>
+            </div>
+            <div>
+                <h5 style="font-weight: 600; margin-bottom: -10px;">Sosyal Hesaplar</h5>
+                <hr>
+                <div class="d-flex flex-column gap-2">
+                    <div class="col-4 d-flex gap-2">
+                        <a class="link-account hover-color theme-primary-text text-decoration-none
+                             d-flex justify-content-center align-items-center p-2"
+                            href="mailto:zozankaye295@gmail.com">
+                            <i class="fa-solid fa-envelope theme-secondary-text inherit-color"></i>
+                        </a>
+                        <a href="https://x.com/ZozanKaya573310" class="link-account hover-color theme-primary-text text-decoration-none
+                             d-flex justify-content-center align-items-center p-2">
+                            <i class="fa-brands fa-twitter theme-secondary-text inherit-color"></i>
+                        </a>
+                        <a href="https://github.com/zozan-kaya/" class="link-account hover-color theme-primary-text text-decoration-none
+                             d-flex justify-content-center align-items-center p-2">
+                            <i class="fa-brands theme-secondary-text inherit-color fa-github"></i>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
-    }
-</section>
-<hr class="theme-secondary-text">
-<section class="d-flex secondary-element rounded-3 flex-column justify-content-center align-items-center p-4">
-    <h3 class="theme-primary-text">Bana Ulaşın</h3>
-        <p class="theme-third-text">Bana Twitter, Facebook gibi platformlardan ulaşabilir veya mail gönderebilirsiniz. </p>
-    <a asp-controller="Home" asp-action="Contact" class="custom-btn rounded-3 hover-shadow-resize">Beni Oraya Götür</a>
-</section>
-<script>
-    let Model = @Html.Raw(Json.Serialize(Model));
-    @* Html.Raw(Json.Serialize(Model)); Kodu ne işe yarar?
-        Bu komut model ile yollanan verileri json formatına çevirir.
-        Bu şekilde script kısımlarında bunu kullanabilir hale geliriz.
-     *@
+        <span class="theme-third-text">©2025 / Zozan Kaya - Tüm Hakları Saklıdır.</span>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js"
+        integrity="sha512-ykZ1QQr0Jy/4ZkvKuqWn4iF3lqPZyij9iRv6sGqLRdTPkY69YX6+7wvVGmsdBbiIfN/8OdsI7HABjvEok6ZopQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</body>
 
-        document.addEventListener("DOMContentLoaded", function () {
-            @* DOMContentLoaded nedir?
-            Sayfadaki tüm HTML elementleri yüklendiğinde bir kod çalıştırmayı sağlar.
-            bunu yapmak "cannot set properties of undefined" hatasını almayı önler.
-            (yani olmayan bir şeye değer atayamam demesin diye)
-         *@
-
-                let elements = document.getElementsByClassName("limited-text");
-
-            Model.forEach((Kitaplar, index) => {
-                @* Tüm modeli tarar
-                kitaplar her kitap "Kitaplar"a alınır ve index'e göre sırasını öğrenmemizi sağlar
-                birden fazla "limited-text" olduğundan dolayı karışıklığı önlemek için index kullanılır *@
-
-                    let text = Kitaplar.on_soz;
-                elements[index].textContent = text.substring(0, 100) + "...";
-                @* Aynı class'a sahip elemanlardan index ile seçim yapıp bir limit veriyoruz ve ardından ... ekliyoruz *@
-            });
-        });
-</script>
+</html>
